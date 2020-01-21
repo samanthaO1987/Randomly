@@ -10,4 +10,33 @@
 	"id": "3",
 	"value": "WEES AVONTUURLIJK",
 	"localization": "NL"
-}]
+}, {
+	"id": "4",
+	"value": "LUISTER NAAR HET ADVIES VAN DEGENEN DIE ER VERSTAND VAN HEBBEN",
+	"localization": "NL"
+}, {
+	"id": "5",
+	"value": "HET ZOU WELEENS MOEILIJK KUNNEN ZIJN OM TOT EEN COMPROMIS TE KOMEN",
+	"localization": "NL"
+}, {
+	"id": "6",
+	"value": "RICHT JE OP HET THUISFRONT",
+	"localization": "NL"
+}, {
+	"id": "7",
+	"value": "GA OP ONDERZOEK UIT EN GENIET ERVAN",
+	"localization": "NL"
+}, {
+	"id": "8",
+	"value": "ZEKER WETEN",
+	"localization": "NL"
+}, {
+	"id": "9",
+	"value": "HET ZAL ONVOORSPELBAAR BLIJVEN",
+	"localization": "NL"
+}, {
+	"id": "10",
+	"value": "ABSOLUUT NIET",
+	"localization": "NL"
+}
+]
